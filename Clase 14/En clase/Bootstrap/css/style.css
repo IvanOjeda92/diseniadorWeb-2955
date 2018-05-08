@@ -1,0 +1,14 @@
+.contact-body {
+	height: 100vh;
+
+	background-position: center center;
+	background-size: cover;
+	background-image: url('../img/contact-bg.jpg');
+}
+
+.main-container {
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
