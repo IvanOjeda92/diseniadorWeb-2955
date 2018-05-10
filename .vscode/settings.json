@@ -25,6 +25,5 @@
         "typescriptreact",
         "yml"
     ],
-    "editor.formatOnSave": true,
     "html.format.wrapLineLength":80
 }

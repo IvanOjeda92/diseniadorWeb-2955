@@ -12,3 +12,17 @@
 	align-items: center;
 	justify-content: center;
 }
+
+.image-custom {
+	width: 100%;
+	height: auto;
+}
+
+.image-container {
+	display: flex;
+	align-items: center;
+}
+
+#image1 {
+	background-image: url('../img/animalsCover.jpg');
+}
